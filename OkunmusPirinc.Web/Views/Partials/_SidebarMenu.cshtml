@@ -1,0 +1,21 @@
+﻿@using OkunmusPirinc.Entities.Concretes
+@model List<ProductCategory>
+<ul id="sidebarMenu" class="mb-0">
+    <li class="main-category bg-dark-color"><a href="#" class="text-white fw-bold">KATEGORİLER</a></li>
+    @foreach (var item in Model)
+    {
+        if (item.MainCategoryID == null)
+        {
+            <li class="main-category bg-primary-color"><a class="text-white" href="@Url.Action("Urunler", "Product",new {id=item.CategoryID})">@item.CategoryName</a></li>
+            <ul>
+                @foreach (var subItem in Model)
+                {
+                    if (subItem.MainCategoryID == item.CategoryID)
+                    {
+                        <li class="sub-category bg-primary-color-light"><a class="text-white" href="@Url.Action("Urunler", "Product",new {id=subItem.CategoryID})">@subItem.CategoryName</a></li>
+                    }
+                }
+            </ul>
+        }
+    }
+</ul>

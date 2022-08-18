@@ -1,0 +1,24 @@
+﻿@using OkunmusPirinc.Entities.Concretes
+@model Product
+@{
+    ViewBag.Title = Model.ProductName;
+}
+
+<div class="row">
+    <div class="col-5 p-3" id="zoomContainer" onmousemove="zoomIn(event)" onmouseout="zoomOut()">
+        <div id="preview"></div>
+        <img id="zoomImage" class="w-100" src="@Model.ProductImage" alt="@Model.ProductName" />
+    </div>
+    <div class="col-7 p-3">
+        <h3 class="text-uppercase">@Model.ProductName</h3>
+        <p>@Model.ProductDesc</p>
+    </div>
+    <hr />
+    <div class="col-12">
+        <p>
+            @Model.ProductExtraDesc
+        </p>
+    </div>
+</div>
+
+<script src="~/Scripts/product-detail.js"></script>

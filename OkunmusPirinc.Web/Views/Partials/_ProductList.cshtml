@@ -1,0 +1,28 @@
+﻿@using OkunmusPirinc.Entities.Concretes
+@model List<Product>
+@foreach (var item in Model)
+{
+    <a href="@Url.Action("UrunDetay", "Product", new { id = item.ProductID })">
+        <div class="product-card p-4 mt-3">
+            <img class="w-100" src="@item.ProductImage" alt="@item.ProductName" />
+            <h4 class="primary-color">@item.ProductName</h4>
+            <p class="d-block primary-color-light">
+                @if (item.ProductDesc.Length > 106)
+                {
+                    @(item.ProductDesc.Substring(0, 102) + "...")
+                }
+                else
+                {
+                    @item.ProductDesc;
+                }
+            </p>
+            <div class="col-12 mt-1 primary-color">
+                <h5 class="d-inline product-price price">@item.ProductPrice</h5>
+                @if (item.DiscountPercent > 0)
+                {
+                    <h5 class="d-inline price discount-price">@(item.ProductPrice - item.ProductPrice * item.DiscountPercent)</h5>
+                }
+            </div>
+        </div>
+    </a>
+}

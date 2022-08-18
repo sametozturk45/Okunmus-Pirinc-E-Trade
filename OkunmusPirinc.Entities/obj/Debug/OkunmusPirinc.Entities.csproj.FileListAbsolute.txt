@@ -1,0 +1,6 @@
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.Entities\bin\Debug\OkunmusPirinc.Entities.dll
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.Entities\bin\Debug\OkunmusPirinc.Entities.pdb
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.Entities\obj\Debug\OkunmusPirinc.Entities.csproj.AssemblyReference.cache
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.Entities\obj\Debug\OkunmusPirinc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.Entities\obj\Debug\OkunmusPirinc.Entities.dll
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.Entities\obj\Debug\OkunmusPirinc.Entities.pdb

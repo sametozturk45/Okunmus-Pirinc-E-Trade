@@ -1,0 +1,13 @@
+﻿@using OkunmusPirinc.Entities.Concretes
+@model List<ProductCategory>
+@foreach (var item in Model)
+{
+    <div class="col-12 col-sm-6 col-md-4 col-xl-3 mt-3">
+        <a href="@Url.Action("AltKategoriler", "Categories", new { id = @item.CategoryID })">
+            <div class="category-item position-relative d-flex align-items-center">
+                <h3 class="text-white position-absolute w-100 text-center">@item.CategoryName</h3>
+                <img src="@item.CategoryImage" alt="@item.CategoryName" />
+            </div>
+        </a>
+    </div>
+}

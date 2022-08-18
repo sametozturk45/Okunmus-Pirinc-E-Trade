@@ -1,0 +1,16 @@
+﻿@using OkunmusPirinc.Entities.Concretes
+@model ListItem
+@{
+    ViewBag.Title = "TumUrunler";
+}
+
+<div class="row">
+    <div class="col-3 mt-3">
+        @Html.Partial("../Partials/_SidebarMenu",Model.Categories)
+    </div>
+    <div class="col-9">
+        <div class="row row-cols-3">
+                @Html.Partial("../Partials/_ProductList",Model.Products)
+        </div>
+    </div>
+</div>

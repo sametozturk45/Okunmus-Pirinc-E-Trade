@@ -1,0 +1,14 @@
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\OkunmusPirinc.DatabaseAccess.dll.config
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\OkunmusPirinc.DatabaseAccess.dll
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\OkunmusPirinc.DatabaseAccess.pdb
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\EntityFramework.dll
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\OkunmusPirinc.Entities.dll
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\OkunmusPirinc.Entities.pdb
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\EntityFramework.xml
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\obj\Debug\OkunmusPirinc.DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\obj\Debug\OkunmusPirinc.DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\obj\Debug\OkunmusPirinc.DatabaseAccess.csproj.CopyComplete
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\obj\Debug\OkunmusPirinc.DatabaseAccess.dll
+C:\Users\hyuna\OneDrive\Masaüstü\OkunmusPirinc\OkunmusPirinc\OkunmusPirinc.DatabaseAccess\obj\Debug\OkunmusPirinc.DatabaseAccess.pdb

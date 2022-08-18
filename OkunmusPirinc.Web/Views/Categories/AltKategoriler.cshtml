@@ -1,0 +1,8 @@
+﻿@using OkunmusPirinc.Entities.Concretes
+@model List<ProductCategory>
+@{
+    ViewBag.Title = "Alt Kategoriler";
+}
+<div class="row">
+        @Html.Partial("../Partials/_CategoryCard",Model)
+</div>
